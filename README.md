@@ -12,3 +12,6 @@ This takes several sorting algorithms and plots their runtimes on a graph. This 
 - Radix Sort
 - Selection Sort
 - Bucket Sort
+
+# Resources
+*Introduction to Alrorithms* Third Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. (MIT Press)
